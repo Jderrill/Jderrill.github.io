@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      GoPi: Raspberry Pi Action Camera
+author:     James Richards
+tags: 		Raspberrypi Electronics DIY
+subtitle:  	Building a waterproof Raspberry Pi action camera
+category:  project1
+---
+
+<!-- Start Writing Below in Markdown -->
+
+<h1>GoPi Camera</h1>
+
+<p>The goal is to make a waterproof action camera that is compatible with GoPro (and Xiaomi) 
+mounts and Accesories</p>
