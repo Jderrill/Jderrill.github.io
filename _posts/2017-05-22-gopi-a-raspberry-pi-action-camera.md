@@ -10,12 +10,11 @@ category: ""
 theme: beige
 trans: cube
 visualworkflow: true
-published: false
+published: true
 title: "GoPi: A Raspberry Pi Action Camera"
 ---
+
 
 ## A New Post
 
 #Raspberry Pi Action Camera
-
-
