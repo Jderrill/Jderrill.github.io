@@ -16,6 +16,4 @@ title: "GoPi: A Raspberry Pi Action Camera"
 
 
 
-## A New Post
-
-#Raspberry Pi Action Camera
+# Raspberry Pi Action Camera
