@@ -1,11 +1,19 @@
 ---
-layout:     post
-title:      GoPi: Raspberry Pi Action Camera
-author:     James Richards
-tags: 		Raspberrypi Electronics DIY
-subtitle:  	Building a waterproof Raspberry Pi action camera
-category:  project1
+slideinit: "<section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
+vertical: "</section><section markdown=\"1\">"
+horizontal: "</section></section><section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
+subtitle: ""
+layout: post
+title: ""
+author: ""
+tags: ""
+category: ""
+theme: beige
+trans: cube
+visualworkflow: true
+published: false
 ---
+
 
 <!-- Start Writing Below in Markdown -->
 
