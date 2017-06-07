@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Members"
-description: "Collaborators working on this project."
+title: "About"
+description: "About the Author(s)"
 header-img: "img/home-bg.jpg"
 ---
 <hr>
@@ -17,8 +17,8 @@ header-img: "img/home-bg.jpg"
 	{% if member.github %} 
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
 	{% endif %}
-	{% if member.gplus %}
-	<span class="social-share-googleplus"><a href="{{ member.gplus }}" title="Google Plus"><img src="{{ "/img/icons/gplus-icon.png" | prepend: site.baseurl }}" style="height:20px">Google Plus</a></span>
+	{% if member.twitter %}
+	<span class="social-share-twitter"><a href="{{ member.twitter }}" title="Google Plus"><img src="{{ "/img/icons/twitter-icon.png" | prepend: site.baseurl }}" style="height:20px">Twitter</a></span>
 	{% endif %}
 	{% if member.url %}
 	<span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
