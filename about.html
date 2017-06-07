@@ -18,17 +18,6 @@ header-img: "img/home-bg.jpg"
 	{% if member.bio %} 
 	{{ member.bio }}
 	{% endif %}
-	
-	<hr>
-	<br>
-	{% if member.github %} 
-	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github </a></span> 
-	{% endif %}
-	{% if member.twitter %}
-	<span class="social-share-googleplus"><a href="https://twitter.com/{{ member.twitter }}" title="Google Plus"><img src="{{ "/img/icons/twitter-icon.png" | prepend: site.baseurl }}" style="height:20px">Twitter </a></span>
-	{% endif %}
-	
-	</br>
 
 {% endif %}{% endfor %}
 
