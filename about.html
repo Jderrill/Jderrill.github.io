@@ -12,16 +12,12 @@ header-img: "img/home-bg.jpg"
       <img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:250px !important">
       	{% if member.url %}
 		<span class="social-share-googleplus"><a href="http://twitter.com/{{ member.twitter }}" title="Google Plus"><img src="{{ "/img/icons/twitter-icon.png"| prepend: site.baseurl }}" style="height:20px">Twitter</a></span>
-		{% endif %} <br>
-		{% if member.url %}
-		<span class="social-share-googleplus"><a href="http://instagram.com/{{ member.instagram }}" title="Google Plus"><img src="{{ "/img/icons/instagram-icon.png"| prepend: site.baseurl }}" style="height:20px">Instagram</a></span>
 		{% endif %}
     </div>
     <div class="col-md-6 col-md-offset-1">
 		<h3>{{ member.role }}</h3>
 		<br>
 		<br>
-		<img src="{{ member.img2 }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:right; width:150px !important">
 		{% if member.bio %} 
 		{{ member.bio }}
 		{% endif %}
