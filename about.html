@@ -8,9 +8,11 @@ header-img: "img/home-bg.jpg"
 
 {% for member in site.data.members %} {% if member.visible == true %}
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:250px !important">
-	<div class = "col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-		<h1>{{ member.name }}</h1>
+    <div class="span2">
+      <img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:250px !important">
+    </div>
+    <div class="span10">
+      <h1>{{ member.name }}</h1>
 		
 		<b>{{ member.role }}</b>
 		<br>
@@ -19,6 +21,7 @@ header-img: "img/home-bg.jpg"
 		{% if member.bio %} 
 		{{ member.bio }}
 		{% endif %}
-	</div>
+    </div>
+
 {% endif %}{% endfor %}
 
