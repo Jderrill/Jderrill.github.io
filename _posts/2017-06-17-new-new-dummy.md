@@ -4,13 +4,13 @@ vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: ""
 layout: post
-author: James Richards
+author: ""
 tags: ""
 category: ""
 theme: beige
 trans: cube
 visualworkflow: true
-published: false
+published: true
 title: new new dummy
 ---
 
