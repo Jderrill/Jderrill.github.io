@@ -10,9 +10,10 @@ category: ""
 theme: beige
 trans: cube
 visualworkflow: true
-published: false
+published: true
 title: Dummy Post
 ---
+
 
 ## A New Post
 
