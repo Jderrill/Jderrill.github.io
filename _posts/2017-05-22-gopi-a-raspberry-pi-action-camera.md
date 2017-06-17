@@ -10,9 +10,10 @@ category: ""
 theme: beige
 trans: cube
 visualworkflow: true
-published: true
+published: false
 title: "GoPi: A Raspberry Pi Action Camera"
 ---
+
 
 
 
@@ -29,6 +30,3 @@ stuff
 Code!
 ```
 > Yo face
-
-
-
