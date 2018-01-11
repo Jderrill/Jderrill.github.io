@@ -34,6 +34,7 @@ James has coding experience in Python, R, C++, JavaScript, Matlab, and several p
 
 
 <h2>Publications</h2>
+```
 1. **J. Richards**, P. Sabharwall, M. Memmot, “Econonomic Comparison of Current Electricity Generating Technologies and Advanced Nuclear Options”, The Electricity Journal, (10), 73-79, December 2017 
  
 2. **J. Richards**, W. Cole, “Assessing the Impact of Nuclear Retirements on the US Power Sector”, The Electricity Journal, (9), 14-21, November 2017 
@@ -45,6 +46,8 @@ James has coding experience in Python, R, C++, JavaScript, Matlab, and several p
 5. W. Cole, T. Mai, J. Logan, D. Steinberg, J. McCall, **J. Richards**, B. Sigrin, G. Porro, “2016 Standard Scenarios Report: A U.S. Electricity Sector Outlook”, Technical Report, NREL/TP-6A20-66939, November 2016. 
  
 6. R. Fitzhugh, **J. Richards**, J. Schaumann, D. Kimball, M. Memmott, “Preliminary Design of a Thermal Storage System for use with a Current Light Water Reactor”, Proceedings of International Congress on Advances in Nuclear Power Plants (ICAPP), San Francisco, CA, April 2016 
+```
+
 
 <h2>Conference Presentations</h2>
 1. W. Cole, **J. Richards**, “U.S. Power System Outlook: A Range of Perspectives from a Suite of Standard Scenarios”, AIChE Annual Meeting, San Francisco, CA, November 2016. 
