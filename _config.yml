@@ -86,6 +86,8 @@ prose:
               value: "notebook"
             - name: "Ply Surface"
               value: "plysurface"
+            - name: "professional"
+              value: "professional"
       - name: "title"
         field:
           element: "text"
