@@ -11,11 +11,11 @@ theme: beige
 trans: cube
 visualworkflow: true
 published: true
-title: James Richards Professional Overview
+title: James D. Richards
 ---
 
 
-
+<h2> Professional Overview</h2>
 [Linkedin](https://www.linkedin.com/in/jderrill)
 
 [Google Scholar](https://scholar.google.com/citations?user=vfOOtcUAAAAJ&hl=en)
@@ -27,14 +27,17 @@ Prior to UI, James worked as an energy forecasting and modeling intern at the Na
 
 James has coding experience in Python, R, C++, JavaScript, Matlab, and several proprietary optimization languages. He has worked on projects that involve linear, dyanmic, and/or mized integer optimization problems. He has worked on teams using version control software (Github) at various times in his professional career. James is currently in courses that focus on CFD (Ansys Fluent) and deep learning/ Neural Networking techniques, and has previously taken courses on dynamic optimization, neutronics modeling with MCNP, power conversion modeling using Aspen Hysys, engineering computing, and basic computer science principles, including object-oriented programming.   
 
+<br>
+<br>
 <h2>Research Interests</h2>
 - Improvement of nuclear thermal hydraulic simulations using machine learning and reduced order modeling approaches.
 - Mass transport and contaminate flow modeling
 - Dynamic and linear optimization modeling
 
-
+<br>
+<br>
 <h2>Publications</h2>
-```
+
 1. **J. Richards**, P. Sabharwall, M. Memmot, “Econonomic Comparison of Current Electricity Generating Technologies and Advanced Nuclear Options”, The Electricity Journal, (10), 73-79, December 2017 
  
 2. **J. Richards**, W. Cole, “Assessing the Impact of Nuclear Retirements on the US Power Sector”, The Electricity Journal, (9), 14-21, November 2017 
@@ -45,10 +48,10 @@ James has coding experience in Python, R, C++, JavaScript, Matlab, and several p
  
 5. W. Cole, T. Mai, J. Logan, D. Steinberg, J. McCall, **J. Richards**, B. Sigrin, G. Porro, “2016 Standard Scenarios Report: A U.S. Electricity Sector Outlook”, Technical Report, NREL/TP-6A20-66939, November 2016. 
  
-6. R. Fitzhugh, **J. Richards**, J. Schaumann, D. Kimball, M. Memmott, “Preliminary Design of a Thermal Storage System for use with a Current Light Water Reactor”, Proceedings of International Congress on Advances in Nuclear Power Plants (ICAPP), San Francisco, CA, April 2016 
-```
+6. R. Fitzhugh, **J. Richards**, J. Schaumann, D. Kimball, M. Memmott, “Preliminary Design of a Thermal Storage System for use with a Current Light Water Reactor”, Proceedings of International Congress on Advances in Nuclear Power Plants (ICAPP), San Francisco, CA, April 2016
 
-
+<br>
+<br>
 <h2>Conference Presentations</h2>
 1. W. Cole, **J. Richards**, “U.S. Power System Outlook: A Range of Perspectives from a Suite of Standard Scenarios”, AIChE Annual Meeting, San Francisco, CA, November 2016. 
  
