@@ -16,9 +16,7 @@ title: James D. Richards
 
 
 <h2> Professional Overview</h2>
-[Linkedin](https://www.linkedin.com/in/jderrill)
-
-[Google Scholar](https://scholar.google.com/citations?user=vfOOtcUAAAAJ&hl=en)
+[Linkedin](https://www.linkedin.com/in/jderrill) [Google Scholar](https://scholar.google.com/citations?user=vfOOtcUAAAAJ&hl=en)
 
 
 James is a first year graduate student in nuclear engineering at the University of Idaho. He is currently writing grants targeting improving Computational Fluid Dynamics with reduced-order modeling and machine learning techniques. He also works on modeling contaminate flows using mass transport phenomena. Additonally, James serves as a TA, developing course cirriculum for the University of Idaho's Nuclear Technology Managment program.
@@ -35,7 +33,6 @@ James has coding experience in Python, R, C++, JavaScript, Matlab, and several p
 - Dynamic and linear optimization modeling
 
 <br>
-<br>
 <h2>Publications</h2>
 
 1. **J. Richards**, P. Sabharwall, M. Memmot, “Econonomic Comparison of Current Electricity Generating Technologies and Advanced Nuclear Options”, The Electricity Journal, (10), 73-79, December 2017 
@@ -50,7 +47,6 @@ James has coding experience in Python, R, C++, JavaScript, Matlab, and several p
  
 6. R. Fitzhugh, **J. Richards**, J. Schaumann, D. Kimball, M. Memmott, “Preliminary Design of a Thermal Storage System for use with a Current Light Water Reactor”, Proceedings of International Congress on Advances in Nuclear Power Plants (ICAPP), San Francisco, CA, April 2016
 
-<br>
 <br>
 <h2>Conference Presentations</h2>
 1. W. Cole, **J. Richards**, “U.S. Power System Outlook: A Range of Perspectives from a Suite of Standard Scenarios”, AIChE Annual Meeting, San Francisco, CA, November 2016. 
