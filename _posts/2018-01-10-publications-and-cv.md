@@ -3,18 +3,19 @@ slideinit: "<section markdown=\"1\" data-background=\"http://projectpages.github
 vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: ""
-layout: post
+layout: professional
 author: ""
 tags: ""
 category: ""
 theme: beige
 trans: cube
 visualworkflow: true
-published: false
+published: true
 title: Publications and CV
 ---
 
-# James Richards CV
+
+# James Richards Professional Overview
 
 [Linkedin](www.linkedin.com/in/jderrill)
 
@@ -48,10 +49,4 @@ James has coding experience in Python, R, C++, JavaScript, Matlab, and several p
 ##Conference Presentations
 1. W. Cole, **J. Richards**, “U.S. Power System Outlook: A Range of Perspectives from a Suite of Standard Scenarios”, AIChE Annual Meeting, San Francisco, CA, November 2016. 
  
-2. S.M. Safdarnejad., **J. Richards**, J. Griffiths, J.D. Hedengren, L.L. Baxter, “Increased Stability of a Power Grid by Energy Storage of Cryogenic Carbon Capture”, AIChE Spring Meeting, Houston, TX, April 2016. 
-
-
-
-
-
-
+2. S.M. Safdarnejad., **J. Richards**, J. Griffiths, J.D. Hedengren, L.L. Baxter, “Increased Stability of a Power Grid by Energy Storage of Cryogenic Carbon Capture”, AIChE Spring Meeting, Houston, TX, April 2016.
