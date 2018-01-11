@@ -16,3 +16,17 @@
   proSubTitle4: Conference Presentations
   proBio: James is a first year graduate student in nuclear engineering at the University of Idaho. He is currently writing grants targeting improving Computational Fluid Dynamics with reduced-order modeling and machine learning techniques. He also works on modeling contaminate flows using mass transport phenomena. Additonally, James serves as a TA, developing course cirriculum for the University of Idaho's Nuclear Technology Managment program.<br><br>   Prior to UI, James worked as an energy forecasting and modeling intern at the National Renewable Energy Laboratory where he worked on large scale linear optimization models focused on electric capacity forecasting. During his undegraduate work in the chemical engineering department at Brigham Young University, James was also involved in studies focusing on nuclear reactor economics, nuclear thermal energy storage, and carbon capture.
   proSkills: --Coding; Python, R, C++, Matlab, GAMS, VBA<br>--Modeling Software; Ansys Fluent, Aspen Hysys, ChemCAD, MCNP<br>--Relavant Course Work; CFD, Deep Learning, Dynamic Optimization, Process Modeling, Neutronics with MCNP
+  proPubs: 1. <b>J. Richards</b>, P. Sabharwall, M. Memmot, “Econonomic Comparison of Current Electricity Generating Technologies and Advanced Nuclear Options”, The Electricity Journal, (10), 73-79, December 2017 
+2. <b>J. Richards</b>, W. Cole, “Assessing the Impact of Nuclear Retirements on the US Power Sector”, The Electricity Journal, (9), 14-21, November 2017 
+ 
+3. W. Cole, T. Mai, <b>J. Richards</b>, P. Das, “2017 Standard Scenarios Report; A U.S. Electricity Sector Outlook”, Technical Report, NREL/TP-6A20-68548, October 2017. 
+ 
+4. W. Cole, B. Frew, P. Gagnon, <b>J. Richards</b>, Y. Sun, R. Margolis, M. Woodhouse “SunShot 2030 for Photovoltaics (PV); Envisioning a Low-cost PV Future”, Technical Report, NREL/TP-6A20-68105, September 2017. 
+ 
+5. W. Cole, T. Mai, J. Logan, D. Steinberg, J. McCall, **J. Richards**, B. Sigrin, G. Porro, “2016 Standard Scenarios Report; A U.S. Electricity Sector Outlook”, Technical Report, NREL/TP-6A20-66939, November 2016. 
+ 
+6. R. Fitzhugh, <b>J. Richards</b>, J. Schaumann, D. Kimball, M. Memmott, “Preliminary Design of a Thermal Storage System for use with a Current Light Water Reactor”, Proceedings of International Congress on Advances in Nuclear Power Plants (ICAPP), San Francisco, CA, April 2016
+
+  proConfs: 1. W. Cole, <b>J. Richards</b>, “U.S. Power System Outlook; A Range of Perspectives from a Suite of Standard Scenarios”, AIChE Annual Meeting, San Francisco, CA, November 2016. 
+ 
+2. S.M. Safdarnejad., <b>J. Richards</b>, J. Griffiths, J.D. Hedengren, L.L. Baxter, “Increased Stability of a Power Grid by Energy Storage of Cryogenic Carbon Capture”, AIChE Spring Meeting, Houston, TX, April 2016.

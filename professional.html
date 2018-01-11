@@ -14,15 +14,19 @@ header-img: "img/home-bg.jpg"
     <div class="col-md-6 col-md-offset-1">
 		<h3>{{ member.proSubTitle1 }}</h3>
 		<br>
-		{{member.proBio}}
+		{{ member.proBio }}
 		<br>
 		<h3>{{ member.proSubTitle2 }}</h3>
 		<br>
-		{{member.proSkills}}
+		{{ member.proSkills }}
 		<br>
 		<h3>{{ member.proSubTitle3 }}</h3>
 		<br>
+		{{ member.proPubs }}
 		<br>
+		<h3>{{ member.proSubTitle4 }}</h3>
+		<br>
+		{{ member.proConf }}
     </div>
 
 {% endif %}{% endfor %}
