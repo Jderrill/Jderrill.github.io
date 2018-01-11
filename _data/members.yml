@@ -1,13 +1,16 @@
 # Members
 
 - name: James Richards
-  role: A Blog for Makers With a Raspberry Pi Tint
+  role: Under Construction!
   img: https://avatars0.githubusercontent.com/u/8010235?v=3&s=400
   img2: /img/GoPi.jpg
   github: jderrill
   twitter: jderrill
   instagram: jderrill
-  bio: You know that kid that pissed off his parents because he took apart the VCR and didn't have the attention span to put it back together? That was me. Luckily, my attention span has improved since then. Probably...<br><br> This blog is a place where I dump all my electronics projects, guides, and ideas. I play a lot with the Raspberry Pi, but that doesn't mean I don't veer in to arduinos, other electronics, or even other DIY. <br><br> Connect with me on twitter for updates. Project ideas are always welcome.
+  bio: Check back for maker tutorials, demos, and general STEM coolness.
   url: http://jderrill.github.io/
   visible: true
-  Professional: hello
+  proSubTitle1: Professional Overview
+  proSubTitle2: Publications
+  proSubTitle3: Conference Presentations
+  proBio: James is a first year graduate student in nuclear engineering at the University of Idaho. He is currently writing grants targeting improving Computational Fluid Dynamics with reduced-order modeling and machine learning techniques. He also works on modeling contaminate flows using mass transport phenomena. Additonally, James serves as a TA, developing course cirriculum for the University of Idaho's Nuclear Technology Managment program.<br>Prior to UI, James worked as an energy forecasting and modeling intern at the National Renewable Energy Laboratory where he worked on large scale linear optimization models focused on electric capacity forecasting. During his undegraduate work in the chemical engineering department at Brigham Young University, James was also involved in studies focusing on nuclear reactor economics, nuclear thermal energy storage, and carbon capture.<br>James has coding experience in Python, R, C++, JavaScript, Matlab, and several proprietary optimization languages. He has worked on projects that involve linear, dyanmic, and/or mized integer optimization problems. He has worked on teams using version control software (Github) at various times in his professional career. James is currently in courses that focus on CFD (Ansys Fluent) and deep learning/ Neural Networking techniques, and has previously taken courses on dynamic optimization, neutronics modeling with MCNP, power conversion modeling using Aspen Hysys, engineering computing, and basic computer science principles, including object-oriented programming. 

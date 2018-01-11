@@ -12,12 +12,16 @@ header-img: "img/home-bg.jpg"
       <img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:250px !important">
     </div>
     <div class="col-md-6 col-md-offset-1">
-		<h3>{{ member.role }}</h3>
+		<h3>{{ member.proSubTitle1 }}</h3>
+		<br>
+		{{member.proBio}}
+		<br>
+		<h3>{{ member.proSubTitle2 }}</h3>
 		<br>
 		<br>
-		{% if member.professional %} 
-		{{ member.professional }}
-		{% endif %}
+		<h3>{{ member.proSubTitle3 }}</h3>
+		<br>
+		<br>
     </div>
 
 {% endif %}{% endfor %}
